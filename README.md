@@ -11,9 +11,9 @@ Vous pouvez également choisir la vitesse de lecture des données à l'aide du c
 
 Enfin, vous pouvez afficher les traces des joueurs en cliquant sur "Draw Lines". La couleur indique la vitesse du joueur. 
 
-# Comment compiler
+# Comment exécuter
 
-Le programme exécutable se trouve dans une archive .jar, à télécharger à l'adresse suivante : https://www.dropbox.com/s/iwvz62ke3d1nual/SoccerStat.jar?dl=0.
+Le programme exécutable se trouve dans une archive .jar, à télécharger à l'adresse suivante : https://www.dropbox.com/s/iwvz62ke3d1nual/SoccerStat.jar?dl=0. Télécharger les fichiers "stade.zip" et "soccer-online.jpeg", et placez les 3 fichiers dans le même répertoire.
 Pour exécuter sous Linux, ouvrez un terminal, placez vous dans le répertoire ou se
 trouve l'archive "SoccerStat.jar" et exécutez la ligne de commande
 suivante : "java -jar SoccerStat.jar"
